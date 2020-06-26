@@ -1,0 +1,148 @@
+ISO_Code,Country_FD,region,Freedom_Score,Country_HN,Happiness_Score
+ALB,Albania,"Eastern Europe",7.84,Albania,4.64400005340576
+DZA,Algeria,"Middle East & North Africa",4.99,Algeria,5.87200021743774
+AGO,Angola,"Sub-Saharan Africa",5.4,Angola,3.79500007629395
+ARG,Argentina,"Latin America & the Caribbean",6.86,Argentina,6.59899997711182
+ARM,Armenia,"Caucasus & Central Asia",7.42,Armenia,4.37599992752075
+AUS,Australia,Oceania,8.62,Australia,7.28399991989136
+AUT,Austria,"Western Europe",8.48,Austria,7.00600004196167
+AZE,Azerbaijan,"Caucasus & Central Asia",6.22,Azerbaijan,5.23400020599365
+BHR,Bahrain,"Middle East & North Africa",6.63,Bahrain,6.08699989318848
+BGD,Bangladesh,"South Asia",5.77,Bangladesh,4.60799980163574
+BLR,Belarus,"Eastern Europe",6.65,Belarus,5.56899976730347
+BEL,Belgium,"Western Europe",8.29,Belgium,6.89099979400635
+BLZ,Belize,"Latin America & the Caribbean",6.95,Belize,5.95599985122681
+BEN,Benin,"Sub-Saharan Africa",6.77,Benin,3.65700006484985
+BTN,Bhutan,"South Asia",6.53,Bhutan,5.01100015640259
+BOL,Bolivia,"Latin America & the Caribbean",6.61,Bolivia,5.82299995422363
+BIH,"Bosnia and Herzegovina","Eastern Europe",7.37,"Bosnia and Herzegovina",5.18200016021729
+BWA,Botswana,"Sub-Saharan Africa",7.17,Botswana,3.76600003242493
+BRA,Brazil,"Latin America & the Caribbean",6.48,Brazil,6.63500022888184
+BGR,Bulgaria,"Eastern Europe",7.79,Bulgaria,4.71400022506714
+BFA,"Burkina Faso","Sub-Saharan Africa",6.73,"Burkina Faso",4.03200006484985
+BDI,Burundi,"Sub-Saharan Africa",5.56,Burundi,2.90499997138977
+KHM,Cambodia,"South Asia",7.13,Cambodia,4.16800022125244
+CMR,Cameroon,"Sub-Saharan Africa",5.64,Cameroon,4.69500017166138
+CAN,Canada,"North America",8.65,Canada,7.31599998474121
+CAF,"Central African Republic","Sub-Saharan Africa",5.41,"Central African Republic",2.69300007820129
+TCD,Chad,"Sub-Saharan Africa",5.46,Chad,3.93600010871887
+CHL,Chile,"Latin America & the Caribbean",8.15,Chile,6.65199995040894
+CHN,China,"East Asia",6.17,China,5.27299976348877
+COL,Colombia,"Latin America & the Caribbean",6.93,Colombia,6.35699987411499
+CRI,"Costa Rica","Latin America & the Caribbean",7.7,"Costa Rica",7.0789999961853
+HRV,Croatia,"Eastern Europe",7.86,Croatia,5.29300022125244
+CYP,Cyprus,"Eastern Europe",7.93,Cyprus,5.62099981307983
+CZE,"Czech Republic","Eastern Europe",8.34,"Czech Republic",6.60900020599365
+COD,"Democratic Republic of Congo","Sub-Saharan Africa",5.36,"Democratic Republic of Congo",4.28000020980835
+DNK,Denmark,"Western Europe",8.56,Denmark,7.52199983596802
+DOM,"Dominican Republic","Latin America & the Caribbean",6.95,"Dominican Republic",5.23000001907349
+ECU,Ecuador,"Latin America & the Caribbean",6.82,Ecuador,6.00799989700317
+EGY,Egypt,"Middle East & North Africa",4.5,Egypt,4.7350001335144
+SLV,"El Salvador","Latin America & the Caribbean",6.89,"El Salvador",6.00299978256226
+EST,Estonia,"Eastern Europe",8.46,Estonia,5.61100006103516
+ETH,Ethiopia,"Sub-Saharan Africa",5.25,Ethiopia,4.46000003814697
+FIN,Finland,"Western Europe",8.53,Finland,7.4689998626709
+FRA,France,"Western Europe",8.02,France,6.44199991226196
+GAB,Gabon,"Sub-Saharan Africa",5.99,Gabon,4.46500015258789
+GEO,Georgia,"Caucasus & Central Asia",7.74,Georgia,4.28599977493286
+DEU,Germany,"Western Europe",8.53,Germany,6.95100021362305
+GHA,Ghana,"Sub-Saharan Africa",6.94,Ghana,4.11999988555908
+GRC,Greece,"Eastern Europe",7.33,Greece,5.22700023651123
+GTM,Guatemala,"Latin America & the Caribbean",7.07,Guatemala,6.4539999961853
+GIN,Guinea,"Sub-Saharan Africa",5.61,Guinea,3.50699996948242
+HTI,Haiti,"Latin America & the Caribbean",6.71,Haiti,3.6029999256134
+HND,Honduras,"Latin America & the Caribbean",6.81,Honduras,5.18100023269653
+HKG,"Hong Kong","East Asia",8.81,"Hong Kong",5.47200012207031
+HUN,Hungary,"Eastern Europe",7.65,Hungary,5.32399988174438
+ISL,Iceland,"Western Europe",8.41,Iceland,7.50400018692017
+IND,India,"South Asia",6.64,India,4.31500005722046
+IDN,Indonesia,"South Asia",6.83,Indonesia,5.26200008392334
+IRN,Iran,"Middle East & North Africa",5.1,Iran,4.69199991226196
+IRQ,Iraq,"Middle East & North Africa",4.34,Iraq,4.49700021743774
+IRL,Ireland,"Western Europe",8.52,Ireland,6.97700023651123
+ISR,Israel,"Middle East & North Africa",7.61,Israel,7.21299982070923
+ITA,Italy,"Western Europe",8.04,Italy,5.96400022506714
+CIV,"Ivory Coast","Sub-Saharan Africa",6.59,"Ivory Coast",4.17999982833862
+JAM,Jamaica,"Latin America & the Caribbean",7.2,Jamaica,5.31099987030029
+JPN,Japan,"East Asia",8.28,Japan,5.92000007629395
+JOR,Jordan,"Middle East & North Africa",6.84,Jordan,5.33599996566772
+KAZ,Kazakhstan,"Caucasus & Central Asia",6.9,Kazakhstan,5.81899976730347
+KEN,Kenya,"Sub-Saharan Africa",6.85,Kenya,4.55299997329712
+KWT,Kuwait,"Middle East & North Africa",6.19,Kuwait,6.10500001907349
+KGZ,Kyrgyzstan,"Caucasus & Central Asia",6.98,Kyrgyzstan,5.00400018692017
+LVA,Latvia,"Eastern Europe",8.29,Latvia,5.84999990463257
+LBN,Lebanon,"Middle East & North Africa",6.74,Lebanon,5.22499990463257
+LSO,Lesotho,"Sub-Saharan Africa",6.54,Lesotho,3.80800008773804
+LBR,Liberia,"Sub-Saharan Africa",6.35,Liberia,3.53299999237061
+LBY,Libya,"Middle East & North Africa",4.64,Libya,5.52500009536743
+LTU,Lithuania,"Eastern Europe",8.32,Lithuania,5.90199995040894
+LUX,Luxembourg,"Western Europe",8.56,Luxembourg,6.86299991607666
+MDG,Madagascar,"Sub-Saharan Africa",6.32,Madagascar,3.64400005340576
+MWI,Malawi,"Sub-Saharan Africa",6.6,Malawi,3.97000002861023
+MYS,Malaysia,"South Asia",6.52,Malaysia,6.08400011062622
+MLI,Mali,"Sub-Saharan Africa",6.03,Mali,4.19000005722046
+MLT,Malta,"Western Europe",8.37,Malta,6.52699995040894
+MRT,Mauritania,"Sub-Saharan Africa",5.47,Mauritania,4.29199981689453
+MUS,Mauritius,"Sub-Saharan Africa",7.52,Mauritius,5.62900018692017
+MEX,Mexico,"Latin America & the Caribbean",6.65,Mexico,6.57800006866455
+MDA,Moldova,"Eastern Europe",6.93,Moldova,5.83799982070923
+MNG,Mongolia,"East Asia",7.61,Mongolia,4.95499992370605
+MNE,Montenegro,"Eastern Europe",7.43,Montenegro,5.23699998855591
+MAR,Morocco,"Middle East & North Africa",6.18,Morocco,5.2350001335144
+MOZ,Mozambique,"Sub-Saharan Africa",6.24,Mozambique,4.55000019073486
+MMR,Myanmar,"South Asia",5.44,Myanmar,4.54500007629395
+NAM,Namibia,"Sub-Saharan Africa",6.75,Namibia,4.57399988174438
+NPL,Nepal,"South Asia",6.51,Nepal,4.96199989318848
+NLD,Netherlands,"Western Europe",8.5,Netherlands,7.3769998550415
+NZL,"New Zealand",Oceania,8.88,"New Zealand",7.31400012969971
+NIC,Nicaragua,"Latin America & the Caribbean",6.86,Nicaragua,6.07100009918213
+NER,Niger,"Sub-Saharan Africa",5.87,Niger,4.02799987792969
+NGA,Nigeria,"Sub-Saharan Africa",6.38,Nigeria,5.07399988174438
+MKD,"North Macedonia","Eastern Europe",7.34,"North Macedonia",5.17500019073486
+NOR,Norway,"Western Europe",8.44,Norway,7.53700017929077
+PAK,Pakistan,"South Asia",5.69,Pakistan,5.26900005340576
+PAN,Panama,"Latin America & the Caribbean",7.69,Panama,6.4520001411438
+PRY,Paraguay,"Latin America & the Caribbean",6.9,Paraguay,5.49300003051758
+PER,Peru,"Latin America & the Caribbean",7.55,Peru,5.71500015258789
+PHL,Philippines,"South Asia",6.88,Philippines,5.42999982833862
+POL,Poland,"Eastern Europe",7.78,Poland,5.97300004959106
+PRT,Portugal,"Western Europe",8.27,Portugal,5.19500017166138
+QAT,Qatar,"Middle East & North Africa",6.15,Qatar,6.375
+COG,"Republic of Congo","Sub-Saharan Africa",5.8,"Republic of Congo",4.29099988937378
+ROU,Romania,"Eastern Europe",8.11,Romania,5.82499980926514
+RUS,Russia,"Eastern Europe",6.34,Russia,5.96299982070923
+RWA,Rwanda,"Sub-Saharan Africa",6.82,Rwanda,3.47099995613098
+SAU,"Saudi Arabia","Middle East & North Africa",5.42,"Saudi Arabia",6.3439998626709
+SEN,Senegal,"Sub-Saharan Africa",6.57,Senegal,4.53499984741211
+SRB,Serbia,"Eastern Europe",7.3,Serbia,5.39499998092651
+SLE,"Sierra Leone","Sub-Saharan Africa",5.99,"Sierra Leone",4.70900011062622
+SGP,Singapore,"South Asia",8.11,Singapore,6.57200002670288
+SVK,"Slovak Republic","Eastern Europe",8.02,"Slovak Republic",6.09800004959106
+SVN,Slovenia,"Eastern Europe",7.97,Slovenia,5.75799989700317
+ZAF,"South Africa","Sub-Saharan Africa",7.08,"South Africa",4.8289999961853
+KOR,"South Korea","East Asia",8.2,"South Korea",5.83799982070923
+ESP,Spain,"Western Europe",8.12,Spain,6.40299987792969
+LKA,"Sri Lanka","South Asia",6.41,"Sri Lanka",4.44000005722046
+SDN,Sudan,"Sub-Saharan Africa",4.32,Sudan,4.13899993896484
+SWE,Sweden,"Western Europe",8.5,Sweden,7.28399991989136
+CHE,Switzerland,"Western Europe",8.82,Switzerland,7.49399995803833
+SYR,Syria,"Middle East & North Africa",3.79,Syria,3.46199989318848
+TWN,Taiwan,"East Asia",8.4,Taiwan,6.42199993133545
+TJK,Tajikistan,"Caucasus & Central Asia",5.77,Tajikistan,5.04099988937378
+TZA,Tanzania,"Sub-Saharan Africa",6.26,Tanzania,3.34899997711182
+THA,Thailand,"South Asia",6.55,Thailand,6.42399978637695
+TGO,Togo,"Sub-Saharan Africa",6.31,Togo,3.49499988555908
+TTO,"Trinidad and Tobago","Latin America & the Caribbean",6.62,"Trinidad and Tobago",6.16800022125244
+TUN,Tunisia,"Middle East & North Africa",6.08,Tunisia,4.80499982833862
+TUR,Turkey,"Middle East & North Africa",6.21,Turkey,5.5
+UGA,Uganda,"Sub-Saharan Africa",6.61,Uganda,4.08099985122681
+UKR,Ukraine,"Eastern Europe",6.26,Ukraine,4.09600019454956
+ARE,"United Arab Emirates","Middle East & North Africa",6.13,"United Arab Emirates",6.64799976348877
+GBR,"United Kingdom","Western Europe",8.47,"United Kingdom",6.71400022506714
+USA,"United States","North America",8.46,"United States",6.99300003051758
+URY,Uruguay,"Latin America & the Caribbean",7.74,Uruguay,6.4539999961853
+VEN,Venezuela,"Latin America & the Caribbean",3.8,Venezuela,5.25
+VNM,Vietnam,"South Asia",6.29,Vietnam,5.07399988174438
+YEM,Yemen,"Middle East & North Africa",4.3,Yemen,3.59299993515015
+ZMB,Zambia,"Sub-Saharan Africa",6.49,Zambia,4.51399993896484
+ZWE,Zimbabwe,"Sub-Saharan Africa",5.65,Zimbabwe,3.875
